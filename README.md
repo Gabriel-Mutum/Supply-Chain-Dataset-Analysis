@@ -30,14 +30,14 @@ machine‑learning algorithms.
 
 ## 📊 Methods & Models Used
 
-- Data cleaning & preprocessing\
-- Exploratory Data Analysis\
+- Data cleaning & preprocessing
+- Exploratory Data Analysis
 - Machine Learning Models:
-  - Logistic Regression\
-  - Decision Tree\
-  - Random Forest\
-  - K-Nearest Neighbors\
-  - Support Vector Machine\
+  - Logistic Regression
+  - Decision Tree
+  - Random Forest
+  - K-Nearest Neighbors
+  - Support Vector Machine
   - Neural Network
 
 ---
@@ -58,16 +58,16 @@ machine‑learning algorithms.
 The final model demonstrates strong predictive capability and can
 support:
 
-- Procurement planning\
-- Supplier negotiations\
-- Cost forecasting\
+- Procurement planning
+- Supplier negotiations
+- Cost forecasting
 - Inventory risk reduction
 
 ---
 
 ## 🔮 Future Improvements
 
-- Integrate additional external factors\
-- Test gradient-boosting models (XGBoost, LightGBM)\
-- Deploy model via API or dashboard\
+- Integrate additional external factors
+- Test gradient-boosting models (XGBoost, LightGBM)
+- Deploy model via API or dashboard
 - Add hyperparameter tuning
